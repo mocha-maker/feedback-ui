@@ -18,9 +18,9 @@ This project uses the following fundamentals of React:
 
 # Install and Execute
 ## Install Dependencies
-``` npm install
+``` npm install ```
 
 ## Run
-``` npm run dev
+``` npm run dev ```
 
 This will run JSON-server on port :5000 and React on port :3000
