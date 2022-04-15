@@ -18,7 +18,6 @@ function RatingSelector({select}) {
         select(+e.currentTarget.value)
     }
 
-
     return (
         <ul className='rating'>
         {Array.from({ length: 10 }, (_, i) => (

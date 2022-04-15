@@ -16,11 +16,12 @@ function FeedbackForm() {
 
     // Edit a feedback
     useEffect(() => {
-        if(feedbackEdit.edit === false) { return }
-        setBtnDisabled(false)
-        // Populate form with selected review
-        setText(feedbackEdit.item.text)
-        setRating(feedbackEdit.item.rating)
+        if (feedbackEdit.edit === true) { 
+            setBtnDisabled(false)
+            // Populate form with selected review
+            setText(feedbackEdit.item.text)
+            setRating(feedbackEdit.item.rating)
+        }
     }, [feedbackEdit])
 
     const handleTextChange = (e) => {
