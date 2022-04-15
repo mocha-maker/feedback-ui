@@ -14,7 +14,8 @@ This project uses the following fundamentals of React:
 * Lists & JSON Keys
 * Context API
 * Hooks (useContext & useEffect) 
-* HTTP Requests
+* HTTP Requests (Proxies, GPDU etc)
+* Async and Fetch
 
 # Tools & Frameworks
 
