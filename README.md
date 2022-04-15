@@ -16,6 +16,11 @@ This project uses the following fundamentals of React:
 * Hooks (useContext & useEffect) 
 * HTTP Requests
 
+# Tools & Frameworks
+
+IDE: Visual Studio Code
+API Manager: Postman
+
 # Install and Execute
 ## Install Dependencies
 ``` npm install ```
