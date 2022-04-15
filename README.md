@@ -21,6 +21,10 @@ This project uses the following fundamentals of React:
 
 IDE: Visual Studio Code
 API Manager: Postman
+Mock Server: JSON Server
+
+Deployed without server to Netlify:
+[See Demo on Netlify](https://mocha-feedback-app.netlify.app/)
 
 # Install and Execute
 ## Install Dependencies
